@@ -5,8 +5,6 @@ A structured and continuously growing collection of **Python programs** covering
 - Logic building & problem solving
 - Complete Object-Oriented Programming (OOP) concepts
 
-This repository is designed for **learning, revision**.
-
 ---
 
 ## 📂 Repository Structure
@@ -54,5 +52,3 @@ Each topic includes:
 
 ### 👤 Author
 **Vikas**
-
-Happy Coding! 🧑‍💻
